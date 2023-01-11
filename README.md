@@ -1,4 +1,4 @@
-# WalletAppt
+# WalletApp
 
 ## About
 
