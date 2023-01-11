@@ -2,7 +2,7 @@
 
 ## About
 
-An Android App that displays the current weather conditions and three-day forecast for the desired city
+An Android App allows the user to manage income and expenses.
 
 ## Features
 * Kotlin
